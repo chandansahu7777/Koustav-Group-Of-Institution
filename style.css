@@ -358,7 +358,7 @@ nav .fa-solid {
 .cs {
   width: 80%;
   margin: 10px auto;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(Img/background1.jpg);
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(./background1.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
